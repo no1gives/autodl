@@ -1,0 +1,1 @@
+youtube-dl -f "best[height<=1080]" --hls-use-mpegts https://chaturbate.com/%1
