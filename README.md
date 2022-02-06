@@ -1,2 +1,2 @@
-# CloudArchiver
-archives files in a folder when done
+# autodl
+fully auto downloader for cb
